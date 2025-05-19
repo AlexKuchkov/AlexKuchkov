@@ -16,7 +16,7 @@ I’m a QA Engineer with over 5 years of experience in manual testing of web app
 </ul>
 
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)
 
 
 
