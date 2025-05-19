@@ -16,13 +16,13 @@ I’m a QA Engineer with over 5 years of experience in manual testing of web app
 </ul>
 
 ### Testing Skills & Tools :
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,bootstrap,react,slack,teams,notion,git,github,ai,ps,xd,figma&theme=dark)](#)
+[![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,bootstrap,react,slack,teams,notion,git,github,ai,ps,xd,figma&theme=dark)](#)
 
 ### Cross-Platform Testing :
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,android,&theme=dark)](#)
+![Cross-Platform Testing](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,android,&theme=dark)
 
 ### Cross-Browser Testing :
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome,safari,firefox,edge,opera,&theme=dark)(#)
+![Cross-Browser Testing](https://go-skill-icons.vercel.app/api/icons?i=chrome,safari,firefox,edge,opera,&theme=dark)
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)
 
