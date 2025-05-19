@@ -16,7 +16,7 @@ I’m a QA Engineer with over 5 years of experience in manual testing of web app
 </ul>
 
 ### Testing skills & Tools :
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,react,yarn,woo,notion,git,github,figma,ai,ps,xd,figma&theme=dark)](#)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,react,yarn,woocomerce,notion,git,github,figma,ai,ps,xd,figma&theme=dark)](#)
 
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)
