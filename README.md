@@ -15,6 +15,9 @@ I’m a QA Engineer with over 5 years of experience in manual testing of web app
   <li> Used Teamwork to manage tasks, track progress, and collaborate with cross-functional teams in an agile environment.</li>
 </ul>
 
+### Skills :
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)
 
