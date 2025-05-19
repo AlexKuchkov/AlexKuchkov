@@ -15,14 +15,16 @@ I’m a QA Engineer with over 5 years of experience in manual testing of web app
   <li> Used Teamwork to manage tasks, track progress, and collaborate with cross-functional teams in an agile environment.</li>
 </ul>
 
-### Testing skills & Tools :
+### Testing Skills & Tools :
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,bootstrap,react,slack,teams,notion,git,github,figma,ai,ps,xd,figma&theme=dark)](#)
 
+### Cross-platform testing :
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=win,apple,android,mac&theme=dark)
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)
 
 
-#### Contact with me:
+#### Contact With Me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alex-kuchkov-553691199)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Hollister89)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alexku4kov@gmail.com)
