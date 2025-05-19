@@ -24,7 +24,7 @@ I’m a QA Engineer with over 5 years of experience in manual testing of web app
 ### Cross-Browser Testing :
 [![Cross-Browser Testing](https://go-skill-icons.vercel.app/api/icons?i=chrome,safari,firefox,edge,opera,&theme=dark)](#)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)](#)
 
 
 #### Contact With Me:
