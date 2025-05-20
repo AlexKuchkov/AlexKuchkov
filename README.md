@@ -16,7 +16,7 @@ I’m a QA Engineer with over 5 years of experience in manual testing of web app
 </ul>
 
 ### Testing Skills & Tools :
-[![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,bootstrap,react,slack,teams,notion,git,github,ai,ps,xd,figma&theme=dark)](#)
+[![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,html,css,bootstrap,react,slack,teams,notion,git,github,ai,ps,xd,figma&theme=dark&perline=5)](#)
 
 ### Cross-Platform Testing :
 [![Cross-Platform Testing](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,android,&theme=dark)](#)
