@@ -36,3 +36,19 @@ QA Engineer with 5+ years of experience in manual testing of web applications, s
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Hollister89)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alexku4kov@gmail.com)
 
+<h3>📬 Contact With Me</h3>
+
+<a href="https://www.linkedin.com/in/alexkuchkov" style="text-decoration:none;">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="40" style="vertical-align:middle; margin-right:30px;" />
+</a>
+<a href="https://t.me/Hollister89" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="40" style="vertical-align:middle; margin-right:30px;" />
+</a>
+<a href="mailto:alexku4kov@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="40" style="vertical-align:middle;" />
+</a>
+
+
+
+
+
