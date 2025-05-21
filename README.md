@@ -19,7 +19,7 @@ QA Engineer with 5+ years of experience in manual testing of web applications, s
 [![Resume](https://img.icons8.com/?size=100&id=Lg8n3Qwr21ix&format=png&color=000000)](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
 
 ### Testing Skills & Tools :
-[![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,lighthouse,shopify,html,css,bootstrap,react,js,xcode,vscode,slack,teams,notion,git,github,ai,ps,xd,indesign,figma&theme=dark&perline=5)](#)
+[![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,lighthouse,shopify,html,css,bootstrap,react,js,xcode,notion,git,github,ai,ps,xd,indesign,figma&theme=dark&perline=5)](#)
 
 ### Cross-Platform Testing :
 [![Cross-Platform Testing](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,android,&theme=dark)](#)
