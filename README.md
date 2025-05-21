@@ -35,9 +35,9 @@ QA Engineer with 5+ years of experience in manual testing of web applications, s
 
 ### Contact With Me :
 
-[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="40" />](https://www.linkedin.com/in/alexkuchkov)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" height="40" />](https://t.me/Hollister89)
-[<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="40" />](mailto:alexku4kov@gmail.com)
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/alexkuchkov)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />](https://t.me/Hollister89)
+[<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](mailto:alexku4kov@gmail.com)
 
 
 
