@@ -16,7 +16,7 @@ QA Engineer with 5+ years of experience in manual testing of web applications, s
 </ul>
 
 ### My Resume :
-## [CV File Here](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
+#### [CV File Here](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
 
 ### Testing Skills & Tools :
 [![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,lighthouse,shopify,html,css,bootstrap,react,js,xcode,vscode,slack,teams,notion,git,github,ai,ps,xd,indesign,figma&theme=dark&perline=5)](#)
