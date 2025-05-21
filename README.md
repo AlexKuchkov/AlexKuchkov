@@ -15,8 +15,9 @@ QA Engineer with 5+ years of experience in manual testing of web applications, s
   <li> Used Teamwork to manage tasks, track progress, and collaborate with cross-functional teams in an agile environment.</li>
 </ul>
 
-### My Resume :
-#### [CV File Here](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
+### My Resume File :
+[![Resume](https://img.icons8.com/?size=100&id=Lg8n3Qwr21ix&format=png&color=000000)](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
+
 
 ### Testing Skills & Tools :
 [![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,lighthouse,shopify,html,css,bootstrap,react,js,xcode,vscode,slack,teams,notion,git,github,ai,ps,xd,indesign,figma&theme=dark&perline=5)](#)
