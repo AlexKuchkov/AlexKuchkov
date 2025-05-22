@@ -1,4 +1,6 @@
-## Hi, I'm Alex 👋
+<p align="center">
+  <img src="https://iili.io/3QZj7Rt.gif" alt="QA Engineer | Bug Hunter | Pixel Perfectionist" />
+</p>
 
 QA Engineer with 5+ years of experience in manual testing of web applications, specializing in functionality, responsiveness, and UX across WordPress, Elementor, WooCommerce, and HTML. Skilled in test case execution, bug reporting, cross-browser/device testing, and third-party integration validation (e.g., Mailchimp). Detail-oriented, with a strong grasp of front-end development and proven success in agile, cross-functional teams using Teamwork.
 
