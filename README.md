@@ -2,7 +2,7 @@
   <img src="https://iili.io/3Qtf1Hu.gif" alt="QA Engineer | Bug Hunter | Pixel Perfectionist" />
 </p>
 
-# About Me :
+## ABOUT ME :
 <details>
 <summary><strong>CLICK HERE</strong></summary>  
   
@@ -25,7 +25,7 @@ Detail-oriented with a solid understanding of front-end development, and proven 
   
 </details>
 
-# My Resume File :
+## MY RESUME FILE :
 <details>
 <summary><strong>CLICK HERE</strong></summary>
 </br>
@@ -34,7 +34,7 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 
 </details>
 
-# Testing Skills & Tools :
+## TESTING SKILLS & TOOLS :
 <details>
 <summary><strong>CLICK HERE</strong></summary>
   
@@ -131,7 +131,7 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)](#)
 
-## Contact With Me :
+## CONTACT WITH ME :
 
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/alexkuchkov)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />](https://t.me/Hollister89)
