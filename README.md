@@ -65,9 +65,9 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Safari](https://img.shields.io/badge/Safari-1C1C1C?style=for-the-badge&logo=safari&logoColor=white)](https://support.apple.com/safari)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/firefox)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com)
+</br>
+</br>
 
-</br>
-</br>
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)](#)
 
 
