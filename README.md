@@ -98,7 +98,7 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 [![LambdaTest](https://img.shields.io/badge/LambdaTest-00C7B7?style=for-the-badge)](https://www.lambdatest.com)
 [![Responsively App](https://img.shields.io/badge/ResponsivelyApp-38B2AC?style=for-the-badge)](https://responsively.app)
-
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
 ### Test Environments – Platforms :
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
