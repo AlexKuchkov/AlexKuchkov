@@ -21,10 +21,11 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Resume](https://img.icons8.com/?size=100&id=Lg8n3Qwr21ix&format=png&color=000000)](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
 
 ### Testing Skills & Tools :
-[![Testing Skills & Tools](https://go-skill-icons.vercel.app/api/icons?i=wordpress,lighthouse,shopify,html,css,bootstrap,react,js,github,ai,ps,xd,indesign,figma&theme=dark&perline=5)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=wordpress,woo,shopify,html5,css3,bootstrap,react,javascript,mysql,jira,figma,sketch,keeper,github)](#)
+
 
 ### Cross-Platform Testing :
-[![Cross-Platform Testing](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,android,&theme=dark)](#)
+[![Cross-Platform Testing](https://go-skill-icons.vercel.app/api/icons?i=windows&theme=light)](#) [![My Skills](https://simpleskill.icons.workers.dev/svg?i=macos,ios,android)](#)
 
 ### Cross-Browser Testing :
 [![Cross-Browser Testing](https://go-skill-icons.vercel.app/api/icons?i=chrome,safari,firefox,edge,opera,&theme=dark)](#)
