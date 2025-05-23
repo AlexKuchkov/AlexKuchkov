@@ -27,7 +27,7 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 
 ---
 
-## MY RESUME FILE :
+## MY CV FILE :
 <details>
 <summary><strong>CLICK HERE</strong></summary>
 </br>
