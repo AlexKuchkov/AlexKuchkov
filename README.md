@@ -41,7 +41,6 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 ### QA & Utilities Tools :
 [![Teamwork](https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white)](https://www.teamwork.com)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![LambdaTest](https://img.shields.io/badge/LambdaTest-00C7B7?style=for-the-badge)](https://www.lambdatest.com)
 
 ### Email & Integration Tools :
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)](https://mailchimp.com)
@@ -64,14 +63,17 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 
 ### Other Tools :
+[![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
+[![LambdaTest](https://img.shields.io/badge/LambdaTest-00C7B7?style=for-the-badge)](https://www.lambdatest.com)
+[![Responsively App](https://img.shields.io/badge/ResponsivelyApp-38B2AC?style=for-the-badge)](https://responsively.app)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![Keeper](https://img.shields.io/badge/Keeper-FFB400?style=for-the-badge)](https://www.keepersecurity.com)
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-8B89CC?style=for-the-badge)](https://protonvpn.com)
-[![Responsively App](https://img.shields.io/badge/ResponsivelyApp-38B2AC?style=for-the-badge)](https://responsively.app)
 [![Pixel Perfect](https://img.shields.io/badge/Pixel%20Perfect-F28D35?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/pixel-perfect/)
 [![WAVE](https://img.shields.io/badge/WAVE%20Accessibility-5C2D91?style=for-the-badge)](https://wave.webaim.org/)
 [![Siteimprove](https://img.shields.io/badge/Siteimprove-0B6ABF?style=for-the-badge)](https://siteimprove.com)
 [![Google PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://pagespeed.web.dev)
+[![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developers.google.com/web/tools/lighthouse)
 [![Color Picker](https://img.shields.io/badge/ColorPicker-9B59B6?style=for-the-badge)](https://www.google.com/search?q=color+picker)
 [![WhatFont](https://img.shields.io/badge/WhatFont-333333?style=for-the-badge)](https://www.chengyinliu.com/whatfont.html)
 [![Maintenance Tools](https://img.shields.io/badge/Maintenance%20Tools-34495E?style=for-the-badge)](#)
@@ -84,8 +86,8 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![WPEngine](https://img.shields.io/badge/WPEngine-0A96F0?style=for-the-badge)](https://wpengine.com)
 [![WP Umbrella](https://img.shields.io/badge/WP%20Umbrella-18A0FB?style=for-the-badge)](https://wp-umbrella.com)
 [![Guru](https://img.shields.io/badge/Guru-5C6AC4?style=for-the-badge)](https://www.getguru.com)
-[![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
-[![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developers.google.com/web/tools/lighthouse)
+
+
 
 
 ### Cross-Platform :
