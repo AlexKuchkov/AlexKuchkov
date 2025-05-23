@@ -39,8 +39,8 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 ### QA & Utilities Tools :
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Teamwork](https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white)](https://www.teamwork.com)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
 [![LambdaTest](https://img.shields.io/badge/LambdaTest-00C7B7?style=for-the-badge)](https://www.lambdatest.com)
 [![Responsively App](https://img.shields.io/badge/ResponsivelyApp-38B2AC?style=for-the-badge)](https://responsively.app)
