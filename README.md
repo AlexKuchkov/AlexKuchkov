@@ -49,6 +49,7 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://outlook.live.com)
 [![Apple Mail](https://img.shields.io/badge/Mac%20Mail-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mail/)
+[![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white)](https://www.thunderbird.net)
 
 ### Communication & Collaboration :
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
