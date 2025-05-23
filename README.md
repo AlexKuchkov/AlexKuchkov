@@ -2,8 +2,6 @@
   <img src="https://iili.io/3Qtf1Hu.gif" alt="QA Engineer | Bug Hunter | Pixel Perfectionist" />
 </p>
 
----
-
 ## ABOUT ME :
 <details>
 <summary><strong>CLICK HERE</strong></summary>  
