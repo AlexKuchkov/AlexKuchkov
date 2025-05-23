@@ -90,6 +90,8 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 ### Utility & Accessibility Tools :
 [![Color Picker](https://img.shields.io/badge/ColorPicker-9B59B6?style=for-the-badge)](https://www.google.com/search?q=color+picker)
 [![WhatFont](https://img.shields.io/badge/WhatFont-333333?style=for-the-badge)](https://www.chengyinliu.com/whatfont.html)
+[![Page Ruler](https://img.shields.io/badge/Page%20Ruler-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/page-ruler/cgmnfnmlficgeijcalkgnnkigkefkbhd)
+
 
 ### Operating Systems :
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
