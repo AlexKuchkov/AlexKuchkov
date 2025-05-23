@@ -1,21 +1,27 @@
 <p align="center">
   <img src="https://iili.io/3Qtf1Hu.gif" alt="QA Engineer | Bug Hunter | Pixel Perfectionist" />
 </p>
+## 👋 Hi, I'm Alex
 
-Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web applications, specializing in functionality, responsiveness, and UX across WordPress, Elementor, WooCommerce, and HTML. Skilled in test case execution, bug reporting, cross-browser/device testing, and third-party integration validation (e.g., Mailchimp). Detail-oriented, with a strong grasp of front-end development and proven success in agile, cross-functional teams using Teamwork.
+**QA Engineer with 5+ years of experience in manual testing of web applications.**  
+I specialize in functionality, responsiveness, and UX testing across **WordPress**, **Elementor**, **WooCommerce**, and **HTML/CSS**-based websites. Skilled in test case execution, bug reporting, cross-browser/device testing, and validation of third-party integrations such as **Mailchimp**.  
+Detail-oriented with a solid understanding of front-end development, and proven success in agile, cross-functional teams using **Teamwork**.
+
+---
 
 ### Responsibilities:
- <ul>
-  <li> Performed manual testing for websites built with WordPress, Elementor, and WooCommerce.</li>
-  <li> Tested new UI/UX designs to ensure accurate implementation and consistency with design specifications.</li>
-  <li> Created and executed detailed checklists, and testing documentation.</li>
-  <li> Reported bugs and worked closely with developers to verify fixes and perform regression testing.</li>
-  <li> Conducted cross-browser and cross-device testing to ensure compatibility across platforms.</li>
-  <li> Validated responsive layouts and markup-to-HTML conversions for visual and functional accuracy.</li>
-  <li> Verified Mailchimp integration and tested email subscription and automation flows.</li>
-  <li> Provided ongoing QA support and performed maintenance testing for live websites to catch post-deployment issues.</li>
-  <li> Used Teamwork to manage tasks, track progress, and collaborate with cross-functional teams in an agile environment.</li>
-</ul>
+
+-  Performed **manual testing** of websites built with WordPress, Elementor, and WooCommerce  
+-  Tested **new UI/UX designs** for accuracy and alignment with design specifications  
+-  Created and executed **detailed checklists**, test cases, and testing documentation  
+-  Reported bugs, verified fixes, and conducted **regression testing**  
+-  Conducted **cross-browser** and **cross-device testing** to ensure compatibility  
+-  Validated **responsive layouts** and markup-to-HTML conversion for visual and functional accuracy  
+-  Verified **Mailchimp integration**, including email subscription and automation flows  
+-  Provided **ongoing QA support** and post-deployment testing for live websites  
+-  Used **Teamwork** to manage tasks, track progress, and collaborate in **agile teams**  
+
+---
 
 ## My Resume File :
 [![Resume](https://img.icons8.com/?size=100&id=Lg8n3Qwr21ix&format=png&color=000000)](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
