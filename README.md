@@ -41,8 +41,10 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 ### QA & Collaboration :
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Teamwork](https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white)](https://www.teamwork.com)
-[![Keeper](https://img.shields.io/badge/Keeper-FFB000?style=for-the-badge&logo=keepersecurity&logoColor=black)](https://www.keepersecurity.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
+[![LambdaTest](https://img.shields.io/badge/LambdaTest-00C7B7?style=for-the-badge)](https://www.lambdatest.com)
+[![ProtonVPN](https://img.shields.io/badge/ProtonVPN-8B89CC?style=for-the-badge)](https://protonvpn.com)
+[![Keeper](https://img.shields.io/badge/Keeper-FFB000?style=for-the-badge&logo=keepersecurity&logoColor=black)](https://www.keepersecurity.com/)
 
 ### Design Tools :
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
@@ -63,6 +65,7 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Safari](https://img.shields.io/badge/Safari-1C1C1C?style=for-the-badge&logo=safari&logoColor=white)](https://support.apple.com/safari)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/firefox)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com)
+
 </br>
 </br>
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)](#)
