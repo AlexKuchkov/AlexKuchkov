@@ -68,6 +68,7 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Siteimprove](https://img.shields.io/badge/Siteimprove-0B6ABF?style=for-the-badge)](https://siteimprove.com)
 [![GiftOfSpeed](https://img.shields.io/badge/GiftOfSpeed-009688?style=for-the-badge)](https://www.giftofspeed.com)
 [![Google PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://pagespeed.web.dev)
+[![GTmetrix](https://img.shields.io/badge/GTmetrix-0080FF?style=for-the-badge)](https://gtmetrix.com)
 [![Pixel Perfect](https://img.shields.io/badge/Pixel%20Perfect-F28D35?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/pixel-perfect/)
 
 ### Screenshot & Screen Recording :
