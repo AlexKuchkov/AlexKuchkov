@@ -7,8 +7,6 @@
 I specialize in functionality, responsiveness, and UX testing across **WordPress**, **Elementor**, **WooCommerce**, and **HTML/CSS**-based websites. Skilled in test case execution, bug reporting, cross-browser/device testing, and validation of third-party integrations such as **Mailchimp**.  
 Detail-oriented with a solid understanding of front-end development, and proven success in agile, cross-functional teams using **Teamwork**.
 
----
-
 ### Responsibilities:
 
 -  Performed **manual testing** of websites built with WordPress, Elementor, and WooCommerce  
@@ -20,8 +18,6 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 -  Verified **Mailchimp integration**, including email subscription and automation flows  
 -  Provided **ongoing QA support** and post-deployment testing for live websites  
 -  Used **Teamwork** to manage tasks, track progress, and collaborate in **agile teams**  
-
----
 
 ## My Resume File :
 [![Resume](https://img.icons8.com/?size=100&id=Lg8n3Qwr21ix&format=png&color=000000)](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
