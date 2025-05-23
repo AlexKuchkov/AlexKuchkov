@@ -20,7 +20,7 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 ## My Resume File :
 [![Resume](https://img.icons8.com/?size=100&id=Lg8n3Qwr21ix&format=png&color=000000)](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
 
-## Testing Skills & Tools :
+# Testing Skills & Tools :
 ### CMS & eCommerce :
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
 [![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://elementor.com)
@@ -38,7 +38,7 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-### QA & Utilities Tools :
+### Project & Issue Management :
 [![Teamwork](https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white)](https://www.teamwork.com)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
