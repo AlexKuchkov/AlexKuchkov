@@ -1,5 +1,3 @@
----
-
 <p align="center">
   <img src="https://iili.io/3Qtf1Hu.gif" alt="QA Engineer | Bug Hunter | Pixel Perfectionist" />
 </p>
@@ -149,8 +147,6 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/alexkuchkov)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />](https://t.me/Hollister89)
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](mailto:alexku4kov@gmail.com)
-
----
 
 
 
