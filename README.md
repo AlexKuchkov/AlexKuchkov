@@ -2,6 +2,11 @@
   <img src="https://iili.io/3Qtf1Hu.gif" alt="QA Engineer | Bug Hunter | Pixel Perfectionist" />
 </p>
 
+# About Me :
+<details>
+<summary><strong>CLICK HERE</strong></summary>  
+</br>
+  
 ## 👋 Hi, I'm Alex
 **QA Engineer with 5+ years of experience in manual testing of web applications.**  
 I specialize in functionality, responsiveness, and UX testing across **WordPress**, **Elementor**, **WooCommerce**, and **HTML/CSS**-based websites. Skilled in test case execution, bug reporting, cross-browser/device testing, and validation of third-party integrations such as **Mailchimp**.  
@@ -17,12 +22,24 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 -  Validated **responsive layouts** and markup-to-HTML conversion for visual and functional accuracy  
 -  Verified **Mailchimp integration**, including email subscription and automation flows  
 -  Provided **ongoing QA support** and post-deployment testing for live websites  
--  Used **Teamwork** to manage tasks, track progress, and collaborate in **agile teams**  
+-  Used **Teamwork** to manage tasks, track progress, and collaborate in **agile teams**
+  
+</details>
 
-## My Resume File :
+# My Resume File :
+<details>
+<summary><strong>CLICK HERE</strong></summary>
+</br>
+  
 [![Resume](https://img.icons8.com/?size=100&id=Lg8n3Qwr21ix&format=png&color=000000)](https://github.com/AlexKuchkov/Resume/blob/5a76f7b0f27e6425007a2cb1e7fb2586342d4035/AKResume.pdf)
 
+</details>
+
 # Testing Skills & Tools :
+<details>
+<summary><strong>CLICK HERE</strong></summary>
+</br>
+  
 ### CMS & eCommerce :
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
 [![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)](https://elementor.com)
@@ -111,6 +128,7 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![Keeper](https://img.shields.io/badge/Keeper-FFB400?style=for-the-badge)](https://www.keepersecurity.com)
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-8B89CC?style=for-the-badge)](https://protonvpn.com)
 
+</details>
 </br>
 </br>
 
