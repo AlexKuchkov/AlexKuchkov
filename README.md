@@ -81,7 +81,7 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Mac Office](https://img.shields.io/badge/Mac%20Office-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iwork/)
 [![WPEngine](https://img.shields.io/badge/WPEngine-0A96F0?style=for-the-badge)](https://wpengine.com)
 [![WP Umbrella](https://img.shields.io/badge/WP%20Umbrella-18A0FB?style=for-the-badge)](https://wp-umbrella.com)
-[![Guru Hosting](https://img.shields.io/badge/Guru-FF5C35?style=for-the-badge)](https://www.guru.co.uk)
+[![Guru](https://img.shields.io/badge/Guru-5C6AC4?style=for-the-badge)](https://www.getguru.com)
 [![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developers.google.com/web/tools/lighthouse)
 
