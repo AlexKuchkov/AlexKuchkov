@@ -50,6 +50,9 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 ### Email & Integration Tools :
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)](https://mailchimp.com)
 [![Campaign Monitor](https://img.shields.io/badge/Campaign%20Monitor-509CF6?style=for-the-badge&logo=campaignmonitor&logoColor=white)](https://www.campaignmonitor.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://outlook.live.com)
+[![Apple Mail](https://img.shields.io/badge/Mac%20Mail-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mail/)
 
 ### Communication & Collaboration :
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
