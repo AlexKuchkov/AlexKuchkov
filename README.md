@@ -5,7 +5,6 @@
 # About Me :
 <details>
 <summary><strong>CLICK HERE</strong></summary>  
-</br>
   
 ## 👋 Hi, I'm Alex
 **QA Engineer with 5+ years of experience in manual testing of web applications.**  
@@ -38,7 +37,6 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 # Testing Skills & Tools :
 <details>
 <summary><strong>CLICK HERE</strong></summary>
-</br>
   
 ### CMS & eCommerce :
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
@@ -130,12 +128,8 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 
 </details>
 </br>
-</br>
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)](#)
-
-
-
 
 ## Contact With Me :
 
