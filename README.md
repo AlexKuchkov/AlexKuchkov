@@ -93,13 +93,13 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Page Ruler](https://img.shields.io/badge/Page%20Ruler-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/page-ruler/cgmnfnmlficgeijcalkgnnkigkefkbhd)
 
 
-### Operating Systems :
+### Cross-Platform Compatibility :
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios)
 
-### Browsers :
+### Cross-Browser Testing :
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/edge)
 [![Safari](https://img.shields.io/badge/Safari-1C1C1C?style=for-the-badge&logo=safari&logoColor=white)](https://support.apple.com/safari)
