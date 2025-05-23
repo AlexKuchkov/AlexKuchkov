@@ -140,8 +140,6 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKuchkov&show_icons=true&theme=transparent)](#)
 
----
-
 ## CONTACT WITH ME :
 
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/alexkuchkov)
