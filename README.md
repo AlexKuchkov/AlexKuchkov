@@ -43,12 +43,17 @@ Hi, i'm Alex, QA Engineer with 5+ years of experience in manual testing of web a
 [![Teamwork](https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white)](https://www.teamwork.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
 [![LambdaTest](https://img.shields.io/badge/LambdaTest-00C7B7?style=for-the-badge)](https://www.lambdatest.com)
+[![Responsively App](https://img.shields.io/badge/ResponsivelyApp-38B2AC?style=for-the-badge)](https://responsively.app)
 [![ProtonVPN](https://img.shields.io/badge/ProtonVPN-8B89CC?style=for-the-badge)](https://protonvpn.com)
 [![Keeper](https://img.shields.io/badge/Keeper-FFB000?style=for-the-badge&logo=keepersecurity&logoColor=black)](https://www.keepersecurity.com/)
 
 ### Email & Integration Tools :
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)](https://mailchimp.com)
 [![Campaign Monitor](https://img.shields.io/badge/Campaign%20Monitor-509CF6?style=for-the-badge&logo=campaignmonitor&logoColor=white)](https://www.campaignmonitor.com)
+
+### Communication & Collaboration :
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams)
 
 ### Design Tools :
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
