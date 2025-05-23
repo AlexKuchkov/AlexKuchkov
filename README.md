@@ -31,8 +31,6 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![WP Engine](https://img.shields.io/badge/WPEngine-0A96F0?style=for-the-badge)](https://wpengine.com)
 [![WP Umbrella](https://img.shields.io/badge/WP%20Umbrella-18A0FB?style=for-the-badge)](https://wp-umbrella.com)
 
-</br>
-
 ### Frontend Development :
 [![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -40,19 +38,13 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
-</br>
-
 ### Database & Version Control :
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-</br>
-
 ### Project & Issue Management :
 [![Teamwork](https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white)](https://www.teamwork.com)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-
-</br>
 
 ### Email & Marketing Tools :
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)](https://mailchimp.com)
@@ -63,15 +55,11 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white)](https://www.thunderbird.net)
 [![Front](https://img.shields.io/badge/Front-FF6F61?style=for-the-badge)](https://front.com)
 
-</br>
-
 ### Communication & Collaboration :
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![Guru](https://img.shields.io/badge/Guru-5C6AC4?style=for-the-badge)](https://www.getguru.com)
-
-</br>
 
 ### Design & Visual QA :
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
@@ -79,8 +67,6 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html)
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-
-</br>
 
 ### Testing & Debugging Tools :
 [![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
@@ -94,8 +80,6 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developers.google.com/web/tools/lighthouse)
 [![GTmetrix](https://img.shields.io/badge/GTmetrix-008ECC?style=for-the-badge)](https://gtmetrix.com)
 
-</br>
-
 ### Screenshot & Recording Tools :
 [![Taprecord](https://img.shields.io/badge/Taprecord-FF6F00?style=for-the-badge)](https://taprecord.com)
 [![ScreenRec](https://img.shields.io/badge/ScreenRec-1E90FF?style=for-the-badge)](https://screenrec.com)
@@ -103,14 +87,10 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![Teampaper Snap](https://img.shields.io/badge/Teampaper-2ECC71?style=for-the-badge)](https://teampaper.me/snap)
 [![Monosnap](https://img.shields.io/badge/Monosnap-3498DB?style=for-the-badge)](https://monosnap.com)
 
-</br>
-
 ### Utility & Accessibility Tools :
 [![Color Picker](https://img.shields.io/badge/ColorPicker-9B59B6?style=for-the-badge)](https://www.google.com/search?q=color+picker)
 [![WhatFont](https://img.shields.io/badge/WhatFont-333333?style=for-the-badge)](https://www.chengyinliu.com/whatfont.html)
 [![Page Ruler](https://img.shields.io/badge/Page%20Ruler-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/page-ruler/cgmnfnmlficgeijcalkgnnkigkefkbhd)
-
-</br>
 
 ### Cross-Platform Compatibility :
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
@@ -118,16 +98,12 @@ Detail-oriented with a solid understanding of front-end development, and proven 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios)
 
-</br>
-
 ### Cross-Browser Testing :
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://www.microsoft.com/edge)
 [![Safari](https://img.shields.io/badge/Safari-1C1C1C?style=for-the-badge&logo=safari&logoColor=white)](https://support.apple.com/safari)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/firefox)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com)
-
-</br>
 
 ### Office & Productivity :
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365)
